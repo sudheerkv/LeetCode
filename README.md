@@ -9,6 +9,14 @@ How to run these problems
 All classes are solution since leetcode gives the input and output. However, if locally it has to be tested. just definition of the function may be useful.
 Main class should be written in order to call these functions and test.
 
+ReverseWordsSrting.java
+-----------------------
+Given an input string, reverse the string word by word.
+
+For example,
+Given s = "the sky is blue",
+return "blue is sky the".
+
 MergeTwoSortedLists.java
 ------------------------
 Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.

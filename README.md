@@ -9,6 +9,11 @@ How to run these problems
 All classes are solution since leetcode gives the input and output. However, if locally it has to be tested. just definition of the function may be useful.
 Main class should be written in order to call these functions and test.
 
+SortedArraytoBST.java
+---------------------
+Convert Sorted Array to Binary Search Tree 
+Given an array where elements are sorted in ascending order, convert it to a height balanced BST.
+
 Evaluate Reverse Polish Notation
 ---------------------------------
 Evaluate the value of an arithmetic expression in Reverse Polish Notation.

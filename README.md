@@ -9,6 +9,10 @@ How to run these problems
 All classes are solution since leetcode gives the input and output. However, if locally it has to be tested. just definition of the function may be useful.
 Main class should be written in order to call these functions and test.
 
+PalindromeNumber.java 
+---------------------
+Determine whether an integer is a palindrome. Do this without extra space.
+
 SortedArraytoBST.java
 ---------------------
 Convert Sorted Array to Binary Search Tree 

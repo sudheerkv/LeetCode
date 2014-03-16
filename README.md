@@ -9,6 +9,12 @@ How to run these problems
 All classes are solution since leetcode gives the input and output. However, if locally it has to be tested. just definition of the function may be useful.
 Main class should be written in order to call these functions and test.
 
+MaxDepthBinaryTree.java
+-----------------------
+Given a binary tree, find its maximum depth.
+
+The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
 RemoveNthLast.java
 ------------------
 Given a linked list, remove the nth node from the end of list and return its head.

@@ -9,6 +9,33 @@ How to run these problems
 All classes are solution since leetcode gives the input and output. However, if locally it has to be tested. just definition of the function may be useful.
 Main class should be written in order to call these functions and test.
 
+MinDepthBinaryTree.java
+-----------------------
+Given a binary tree, find its minimum depth.
+
+The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+
+BinTreeFromInPostOrder.java
+---------------------------
+Given inorder and postorder traversal of a tree, construct the binary tree.
+
+Note:
+You may assume that duplicates do not exist in the tree.
+
+TrappingRainWater.java
+----------------------
+Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+
+For example, 
+Given [0,1,0,2,1,0,1,3,2,1,2,1], return 6.
+
+LinkedListCycle.java
+--------------------
+Given a linked list, determine if it has a cycle in it.
+
+Follow up:
+Can you solve it without using extra space?
+
 MaxDepthBinaryTree.java
 -----------------------
 Given a binary tree, find its maximum depth.

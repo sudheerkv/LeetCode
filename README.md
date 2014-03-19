@@ -9,6 +9,13 @@ How to run these problems
 All classes are solution since leetcode gives the input and output. However, if locally it has to be tested. just definition of the function may be useful.
 Main class should be written in order to call these functions and test.
 
+SingleNumber.java
+-----------------
+Given an array of integers, every element appears twice except for one. Find that single one.
+
+Note:
+Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
+
 ValidSudoku.java
 ----------------
 Determine if a Sudoku is valid, according to: Sudoku Puzzles - The Rules.

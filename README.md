@@ -9,6 +9,14 @@ How to run these problems
 All classes are solution since leetcode gives the input and output. However, if locally it has to be tested. just definition of the function may be useful.
 Main class should be written in order to call these functions and test.
 
+ValidSudoku.java
+----------------
+Determine if a Sudoku is valid, according to: Sudoku Puzzles - The Rules.
+
+The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
+Note:
+A valid Sudoku board (partially filled) is not necessarily solvable. Only the filled cells need to be validated.
+
 ReorderList.java
 ----------------
 Given a singly linked list L: L0→L1→…→Ln-1→Ln,
